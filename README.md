@@ -268,7 +268,8 @@ gcc main.c student.c -o program
 - 
 ./program.exe  
 
-![Uploading 9.png…]() 
+<img width="486" height="130" alt="9" src="https://github.com/user-attachments/assets/a9d20aae-d16a-47fb-8953-8224bb948415" />
+
 
 ---
 
