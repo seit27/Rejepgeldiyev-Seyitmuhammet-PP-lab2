@@ -120,7 +120,6 @@ learn-github-actions.yml
 - `checkout` — скачивает репозиторий  
 - `run` — выполняет команды  
 
-📸 *[ВСТАВИТЬ СКРИН]*  
 
 ---
 
@@ -132,7 +131,6 @@ git add .
 git commit -m "Add workflow"  
 git push  
 
-📸 *[ВСТАВИТЬ СКРИН]*  
 
 ---
 
@@ -193,15 +191,15 @@ git commit -m "first commit"
 git remote add origin (ссылка)  
 git push -u origin main  
 
-📸 *[ВСТАВИТЬ СКРИН]*  
+<img width="661" height="468" alt="8" src="https://github.com/user-attachments/assets/f479be17-b73f-44cd-afeb-a660b12e78a0" />
+
 
 ---
 
 ### 🔹 4. Создание ветки  
 
 git checkout -b dev  
-
-📸 *[ВСТАВИТЬ СКРИН]*  
+ 
 
 ---
 
